@@ -64,5 +64,6 @@ What problem triggered this — did a bad UUID slip through somewhere and cause 
 
 ```
 
-So what does this show? Basically, AI is a knife. A tool just like all the other software tools we have. It cannot be trusted and it can absolutely lead you down the wrong path very fast and sound very convincing, like ChatGPT and lead you to solutions that are not in the best interest for your business or the problem are you trying to solve.
+So what does this show? Basically, AI is a knife. A tool just like all the other software tools we have. It cannot be trusted and it can absolutely lead you down the wrong path very fast and sound very convincing, lead you to solutions that are not in the best interest for your business or the problem are you trying to solve.
 
+I think the growing interest in AI harness is going to lead to new roles in software development. Folks who spend all day defining what AI software generation agents can or cannot do.
